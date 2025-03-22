@@ -26,3 +26,7 @@ Here are four frames from the video of a single pull with the left arm. Look at 
 
 ![](/images/left-4.jpg){: width="100%" }
 *The hand is pointing inward again and has stopped pushing backward.*
+
+## Source Code
+
+Want to try creating the overlays yourself? If you know what you are doing, you can find the source code [here](https://github.com/freestyletools/swimbetter-plot)
